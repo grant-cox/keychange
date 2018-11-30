@@ -1,0 +1,9 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'final.blg'
+[29] biber:287> INFO - === Thu Dec  7, 2017, 00:24:29
+[99] Biber.pm:348> INFO - Reading 'final.bcf'
+[217] Biber.pm:742> INFO - Found 0 citekeys in bib section 0
+[218] Utils.pm:147> WARN - The file 'final.bcf' does not contain any citations!
+[247] bbl.pm:519> INFO - Writing 'final.bbl' with encoding 'UTF-8'
+[251] bbl.pm:615> INFO - Output to final.bbl
+[254] Biber.pm:109> INFO - WARNINGS: 1
